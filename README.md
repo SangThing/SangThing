@@ -18,6 +18,7 @@
   </br>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Python&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Python&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"--> 
 
 </div>
