@@ -10,7 +10,7 @@
 
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white" s>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/R-4479A1?style=flat-square&logo=R&logoColor=white">
   </br>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
